@@ -41,7 +41,7 @@ alter table student add department varchar(15);
 drop table student;
 
 ### OUTPUT:
-![3](https://github.com/Divya110205/I2_DBMS/assets/119404855/faac3195-e862-4ccd-b464-db1e922af6db)
+![3](https://github.com/Divya110205/I2_DBMS/assets/119404855/e9ec15a1-9208-4344-bd40-56f9b5f52a29)
 
 ### 4) Delete the student table using truncate keyword
 
